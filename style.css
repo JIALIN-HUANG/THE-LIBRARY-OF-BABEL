@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
+
+body {
+  background-color: #fff8f0;
+}
+
+.TLB {
+  position: absolute;
+  width: 226px;
+  height: 50%;
+  left: 38%;
+  top: 42%;
+
+  font-family: "Playfair Display", serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 48px;
+
+  color: #000000;
+}
+
+.JLB {
+  position: absolute;
+  width: 141px;
+  height: 24px;
+  left: 38%;
+  top: 54%;
+
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.pic {
+  position: absolute;
+  width: 28%;
+  height:47%;
+  left: 34%;
+  top: 25%;
+}
+
