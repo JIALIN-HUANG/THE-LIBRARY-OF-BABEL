@@ -6,42 +6,71 @@ body {
 
 .TLB {
   position: absolute;
-  width: 226px;
-  height: 50%;
-  left: 38%;
-  top: 42%;
+  width: 251px;
+  height: 263px;
+  left: 15%;
+  top: 37%;
 
-  font-family: "Playfair Display", serif;
+  font-family: Playfair Display;
   font-style: normal;
   font-weight: normal;
-  font-size: 36px;
-  line-height: 48px;
+  font-size: 3rem;
+  line-height: 64px;
+  text-align: center;
 
   color: #000000;
 }
 
 .JLB {
   position: absolute;
-  width: 141px;
-  height: 24px;
-  left: 38%;
-  top: 54%;
+  width: 403px;
+  height: 47px;
+  left: 9%;
+  top: 62%;
 
   font-family: Playfair Display;
   font-style: normal;
   font-weight: normal;
-  font-size: 18px;
-  line-height: 24px;
-  /* identical to box height */
+  font-size: 1.5rem;
+  line-height: 32px;
+  text-align: center;
 
   color: #000000;
 }
 
-.pic {
+.victor{
   position: absolute;
-  width: 28%;
-  height:47%;
-  left: 34%;
-  top: 25%;
+width: 402px;
+height: 37px;
+left: 13%;
+top: 26%;
+
 }
 
+.cictor{
+  position: absolute;
+width: 113px;
+height: 463px;
+left: 34%;
+top: 28.6%;
+
+}
+
+.pic {
+  position: absolute;
+  width: 33.5%;
+  height: 47%;
+  left: 12.5%;
+  top: 27%;
+}
+
+.Rec1{
+  position: absolute;
+width: 95%;
+height: 95%;
+left: 2%;
+top: 2%;
+
+border: 13px solid #CACEDE;
+box-sizing: border-box;
+}
