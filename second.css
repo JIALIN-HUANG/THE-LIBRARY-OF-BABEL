@@ -11,36 +11,34 @@ body {
 
 .library {
   position: absolute;
-  width: 414px;
-  height: 188px;
-  left: 17%;
-  top: 40.5%;
+width: 263px;
+height: 255px;
+left: 801px;
+top: 503px;
 
-  font-family: Punk Nova Regular;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 24px;
-  line-height: 32px;
-
-  color: #000000;
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 146%;
+/* or 146% */
 }
 
 .pf {
   position: absolute;
-  width: 190px;
-  height: 48px;
-  left: 17%;
-  top: 32%;
-
-  font-family: Playfair Display;
+  width: 347px;
+  height: 77px;
+  left: 459px;
+  top: 22%;
+  
+  font-family: Inria Serif;
   font-style: normal;
-  font-weight: normal;
-  font-size: 36px;
-  line-height: 48px;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 77px;
   /* identical to box height */
-  text-align: center;
-
-  color: #000000;
+  
+  text-align: center;  
 }
 
 .rectangle {
@@ -55,6 +53,118 @@ body {
   background: #faf4ba;
 }
 
+.bc{
+  position: absolute;
+  width: 392px;
+  height: 398px;
+  left: 698px;
+  top: 72px;
+  
+  background: #FAF4BA;
+  border-radius: 196px;
+}
+
+.sc{
+  position: absolute;
+  width: 286px;
+  height: 286px;
+  left: 751px;
+  top: 184px;
+  
+  background: #FADDBC;
+  border-radius: 196px;
+}
+
+.rec1{
+  position: absolute;
+  width: 289px;
+  height: 34px;
+  left: 475px;
+  top: 370px;
+  
+  background: #F9BD86;
+}
+
+.rec2{
+  position: absolute;
+width: 289px;
+height: 34px;
+left: 476px;
+top: 417px;
+
+background: #F9BD86;
+}
+
+.rec3{
+  position: absolute;
+width: 289px;
+height: 34px;
+left: 476px;
+top: 466px;
+
+background: #F9BD86;
+}
+
+.rec4{
+  position: absolute;
+width: 289px;
+height: 34px;
+left: 475px;
+top: 513px;
+
+background: #F9BD86;
+}
+
+.rec5{
+  position: absolute;
+width: 289px;
+height: 34px;
+left: 474px;
+top: 560px;
+
+background: #F9BD86;
+}
+
+.rec6{
+  position: absolute;
+width: 289px;
+height: 34px;
+left: 475px;
+top: 608px;
+
+background: #F9BD86;
+}
+
+.rec7{
+  position: absolute;
+width: 289px;
+height: 34px;
+left: 475px;
+top: 656px;
+
+background: #F9BD86;
+}
+
+.rec8{
+  position: absolute;
+width: 289px;
+height: 34px;
+left: 476px;
+top: 704px;
+
+background: #F9BD86;
+}
+
+.rec9{
+  position: absolute;
+width: 289px;
+height: 34px;
+left: 476px;
+top: 752px;
+
+background: #F9BD86;
+}
+
 .table label, .table input, .table p{
   font-family: Playfair Display;
   font-size: 1rem;
@@ -62,6 +172,12 @@ body {
 }
 
 .table{
+  position: absolute;
+  width: 360px;
+  height: 606px;
+  left: 32%;
+  top: 48%;
+  display: grid;
 text-align: center;
 }
 
@@ -71,4 +187,16 @@ input{
   margin: 0 auto;
   height: 135px;
   align-items: center;
+}
+
+.cts{
+  position: absolute;
+  width: 530px;
+  height: 193px;
+  left: -20%;
+  top: 45%;
+  
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
 }

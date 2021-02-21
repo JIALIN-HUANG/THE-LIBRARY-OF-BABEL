@@ -74,3 +74,41 @@ top: 2%;
 border: 13px solid #CACEDE;
 box-sizing: border-box;
 }
+
+.V6{
+  position: absolute;
+width: 964.5px;
+height: 271px;
+left: 34%;
+top: 73%;
+}
+
+.AL{
+  position: absolute;
+width: 502px;
+height: 69px;
+left: 741px;
+top: 303px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+}
+
+.paragraph{
+  position: absolute;
+width: 530px;
+height: 193px;
+left: 741px;
+top: 400px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+
+color: #000000;
+}
