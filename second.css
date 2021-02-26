@@ -11,10 +11,10 @@ body {
 
 .library {
   position: absolute;
-width: 263px;
-height: 255px;
-left: 801px;
-top: 503px;
+  width: 384px;
+  height: 255px;
+  left: 120%;
+  top: 45%;
 
 font-family: Playfair Display;
 font-style: normal;
@@ -26,10 +26,10 @@ line-height: 146%;
 
 .pf {
   position: absolute;
-  width: 347px;
-  height: 77px;
-  left: 459px;
-  top: 22%;
+  width: 359px;
+  height: 66px;
+  left: 120%;
+  top: 32%;
   
   font-family: Inria Serif;
   font-style: normal;
@@ -39,154 +39,6 @@ line-height: 146%;
   /* identical to box height */
   
   text-align: center;  
-}
-
-.rectangle {
-  position: absolute;
-  width: 360px;
-  height: 606px;
-  left: 55%;
-  top: 20%;
-  display: grid;
-  align-items: center;
-
-  background: #faf4ba;
-}
-
-.bc{
-  position: absolute;
-  width: 392px;
-  height: 398px;
-  left: 698px;
-  top: 72px;
-  
-  background: #FAF4BA;
-  border-radius: 196px;
-}
-
-.sc{
-  position: absolute;
-  width: 286px;
-  height: 286px;
-  left: 751px;
-  top: 184px;
-  
-  background: #FADDBC;
-  border-radius: 196px;
-}
-
-.rec1{
-  position: absolute;
-  width: 289px;
-  height: 34px;
-  left: 475px;
-  top: 370px;
-  
-  background: #F9BD86;
-}
-
-.rec2{
-  position: absolute;
-width: 289px;
-height: 34px;
-left: 476px;
-top: 417px;
-
-background: #F9BD86;
-}
-
-.rec3{
-  position: absolute;
-width: 289px;
-height: 34px;
-left: 476px;
-top: 466px;
-
-background: #F9BD86;
-}
-
-.rec4{
-  position: absolute;
-width: 289px;
-height: 34px;
-left: 475px;
-top: 513px;
-
-background: #F9BD86;
-}
-
-.rec5{
-  position: absolute;
-width: 289px;
-height: 34px;
-left: 474px;
-top: 560px;
-
-background: #F9BD86;
-}
-
-.rec6{
-  position: absolute;
-width: 289px;
-height: 34px;
-left: 475px;
-top: 608px;
-
-background: #F9BD86;
-}
-
-.rec7{
-  position: absolute;
-width: 289px;
-height: 34px;
-left: 475px;
-top: 656px;
-
-background: #F9BD86;
-}
-
-.rec8{
-  position: absolute;
-width: 289px;
-height: 34px;
-left: 476px;
-top: 704px;
-
-background: #F9BD86;
-}
-
-.rec9{
-  position: absolute;
-width: 289px;
-height: 34px;
-left: 476px;
-top: 752px;
-
-background: #F9BD86;
-}
-
-.table label, .table input, .table p{
-  font-family: Playfair Display;
-  font-size: 1rem;
-
-}
-
-.table{
-  position: absolute;
-  width: 360px;
-  height: 606px;
-  left: 29%;
-  top: 44%;
-  display: grid;
-text-align: center;
-}
-
-input{
-  display: block;
-  width: 150px;
-  margin: 0 auto;
-  height: 135px;
-  align-items: center;
 }
 
 .cts{
@@ -199,4 +51,69 @@ input{
   font-family: Playfair Display;
   font-style: normal;
   font-weight: normal;
+}
+
+.floor{
+  position: absolute;
+  width: 367px;
+  height: 25px;
+  left: 32%;
+  top: 24.2%;
+  
+}
+
+.floor1{
+  position: absolute;
+  width: 394px;
+  height: 44px;
+  left: 28.5%;
+  top: 30.1%;
+}
+
+.floor2{
+  position: absolute;
+  width: 421px;
+  height: 63px;
+  left: 25%;
+  top: 37.4%;
+}
+
+.floor3{
+  position: absolute;
+  width: 448px;
+  height: 92px;
+  left: 20%;
+  top: 45%;
+}
+
+.floor4{
+  position: absolute;
+  width: 479px;
+  height: 127px;
+  left: 14.3%;
+  top: 54.3%;
+}
+
+.floor5{
+  position: absolute;
+  width: 511px;
+  height: 171px;
+  left: 6%;
+  top: 67%;
+}
+
+.image-container {
+  position: absolute;
+  top: 0%;
+  left: 10%;
+  width: 720px;
+  height: 1000px;
+}
+
+.pictureh:hover{
+  opacity: 0;
+}
+
+@media only screen and (min-width: 1280px){
+  
 }
