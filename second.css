@@ -14,7 +14,7 @@ body {
   width: 384px;
   height: 255px;
   left: 120%;
-  top: 45%;
+  top: 40%;
 
 font-family: Playfair Display;
 font-style: normal;
@@ -29,7 +29,7 @@ line-height: 146%;
   width: 359px;
   height: 66px;
   left: 120%;
-  top: 32%;
+  top: 27%;
   
   font-family: Inria Serif;
   font-style: normal;
@@ -114,6 +114,21 @@ line-height: 146%;
   opacity: 0;
 }
 
+.HomePage{
+  position: absolute;
+  width: 145px;
+  height: 29px;
+  left: 68%;
+  top: 66.6%;
+
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.125rem;
+  line-height: 24px;
+  text-align: center;
+}
+
 @media only screen and (min-width: 1280px){
-  
+
 }
