@@ -1,0 +1,142 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
+
+body {
+  background-color: #fff8f0;
+}
+
+.FN {
+  position: absolute;
+  width: 539px;
+  height: 105px;
+  left: 15.3%;
+  top: 25.8%;
+
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 4rem;
+  line-height: 77px;
+}
+
+.para {
+  position: absolute;
+  width: 530px;
+  height: 193px;
+  left: 15.3%;
+  top: 40%;
+
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.5rem;
+  line-height: 32px;
+}
+
+.bf {
+  position: absolute;
+  width: 145px;
+  height: 29px;
+  left: 27.5%;
+  top: 66.6%;
+
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.125rem;
+  line-height: 24px;
+  text-align: center;
+}
+
+.vector5 {
+  position: absolute;
+  width: 339.5px;
+  height: 394.5px;
+  left: 65%;
+  top: 26.8%;
+}
+
+.one{
+    position: absolute;
+width: 49px;
+height: 101px;
+left: 82%;
+top: 26%;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 1.875rem;
+line-height: 40px;
+
+}
+
+.two{
+    position: absolute;
+    width: 49px;
+    height: 101px;
+    left: 87%;
+    top: 45.4%;
+    
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.875rem;
+    line-height: 40px;
+    
+}
+
+.three{
+    position: absolute;
+width: 49px;
+height: 101px;
+left: 82%;
+top: 64.4%;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 1.875rem;
+line-height: 40px;
+}
+
+.flour{
+    position: absolute;
+width: 49px;
+height: 101px;
+left: 67%;
+top: 64.4%;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 1.875rem;
+line-height: 40px;
+}
+
+.five{
+    position: absolute;
+    width: 49px;
+    height: 101px;
+    left: 61.5%;
+    top: 45.4%;
+    
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.875rem;
+    line-height: 40px;
+}
+
+.six{
+    position: absolute;
+width: 49px;
+height: 101px;
+left: 67%;
+top: 26%;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 1.875rem;
+line-height: 40px;
+}

@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Inria+Serif&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
+
+body{
+background: #FFF8F0;
+}
+
+.fn{
+    position: absolute;
+    width: 539px;
+    height: 105px;
+    left: 153px;
+    top: 238px;
+    
+    font-family: 'Inria Serif', serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 77px;
+    
+    color: #000000;
+}
+
+.vector5{
+    position: absolute;
+left: 903px;
+top: 268px;
+
+}
+
+.paragraph{
+    position: absolute;
+width: 530px;
+height: 193px;
+left: 153px;
+top: 389px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+
+color: #000000;
+}
