@@ -1,0 +1,32 @@
+body{
+    background: #FFF8F0;
+    margin-bottom: 20px;
+}
+
+
+.shelf{
+    display: flex;
+}
+
+.book{
+    width: 37px;
+    height: 98px;
+    margin-left: 20px;
+    margin-bottom: 1.5rem;
+}
+
+.brownn1{
+    background:#E7B28C;
+}
+
+.brown2{
+    background: #D3A481;
+}
+
+.brown3{
+    background: #B48B6F;
+}
+
+.brown4{
+    background: #9D7961;
+}
