@@ -10,7 +10,6 @@ body{
     right: 8%;
 }
 
-
 .shelf{
     display: flex;
 }
@@ -46,7 +45,77 @@ body{
     background: #6B5342;
 }
 
+.pink1{
+    background: #FFD3CB;
+}
 
+.pink2{
+    background: #EDBFB7;
+}
+
+.pink3{
+background: #C8A19B;
+}
+
+.pink4{
+    background: #AB8883;
+}
+
+.pink5{
+    background: #8E736E;
+}
+
+.pink6{
+    background: #725955;
+}
+
+.green1{
+    background: #ECF9D4;
+}
+
+.green2{
+    background: #D4E0BD;
+}
+
+.green3{
+    background: #B5BFA1;
+}
+
+.green4{
+    background: #9DA68D;
+}
+
+.green5{
+    background: #878E79;
+}
+
+.green6{
+    background:#6E7463;
+}
+
+.blue1{
+    background: #96C1FC;
+}
+
+.blue2{
+    background: #78A5E2;
+}
+
+.blue3{
+    background: #648ABD;
+}
+
+.blue4{
+    background: #47648B;
+}
+
+.blue5{
+    background: #344966;
+}
+
+.blue6{
+    background: #27374D;
+}
 .move:hover{
     -webkit-transform: skew(-10deg);
     transform: skew(-10deg);
