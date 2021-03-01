@@ -147,7 +147,7 @@ body {
   top: 1%;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 414px) {
   .picone {
     position: absolute;
     width: 50vw;

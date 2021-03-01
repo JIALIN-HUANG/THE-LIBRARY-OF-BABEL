@@ -128,7 +128,7 @@ body {
   text-align: center;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 414px) {
   .library {
     position: absolute;
     width: 50vw;
