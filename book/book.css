@@ -5,11 +5,11 @@ body {
 }
 
 .context {
-  position: absolute;
+  position: relative;
+  margin-top: 10%;
   width: 56.65vw;
   height: 33vh;
   left: 22%;
-  top: 29%;
 
   font-family: Playfair Display;
   font-style: normal;

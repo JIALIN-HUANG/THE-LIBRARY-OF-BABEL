@@ -142,7 +142,114 @@ body {
 .picone {
   position: absolute;
   width: 630px;
-height: 928px;
+  height: 928px;
   left: 1.8%;
   top: 1%;
+}
+
+@media screen and (max-width: 650px) {
+  .picone {
+    position: absolute;
+    width: 50vw;
+    height: 50vh;
+    left: 8%;
+    top: 13%;
+
+    background: url(index.png);
+  }
+
+  .TLB {
+    position: absolute;
+    width: 112px;
+    height: 111px;
+    left: 60%;
+    top: calc(50% - 111px / 2 - 80.5px);
+
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 32px;
+  }
+
+  .JLB {
+    position: absolute;
+    width: 138px;
+    height: 18px;
+    left: 58%;
+    top: 48%;
+
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+  }
+
+  .line {
+    position: absolute;
+    width: 30px;
+    height: 0px;
+    left: 53%;
+    top: 43%;
+
+    border: 1px solid #000000;
+  }
+
+  .line2 {
+    position: absolute;
+    width: 30px;
+    height: 0px;
+    left: 75%;
+    top: 43%;
+
+    border: 1px solid #000000;
+  }
+
+  .paragraph {
+    position: absolute;
+    width: 298px;
+    height: 223px;
+    left: 21%;
+    top: 68%;
+
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .AL {
+    position: absolute;
+    width: 233px;
+    height: 39px;
+    left: 32%;
+    top: 16%;
+
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .line {
+    opacity: 0;
+  }
+
+  .line2 {
+    opacity: 0;
+  }
+
+  .Rec1 {
+    position: absolute;
+    width: 95%;
+    height: 95%;
+    left: 2%;
+    top: 2%;
+
+    border: 13px solid #cacede;
+    box-sizing: border-box;
+  }
 }

@@ -3,15 +3,11 @@ body{
     margin-bottom: 20px;
 }
 
-.book-container{
-    position: absolute;
-    top: 15%;
-    left: 8%;
-    right: 8%;
-}
 
 .shelf{
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .book{
@@ -19,6 +15,7 @@ body{
     height: 98px;
     margin-left: 20px;
     margin-bottom: 18px;
+    margin-top: 40px;
 }
 
 .brownn1{
@@ -116,6 +113,31 @@ background: #C8A19B;
 .blue6{
     background: #27374D;
 }
+
+.purple1{
+    background: #D6CFCB;
+}
+
+.purple2{
+    background: #CCB7AE;
+}
+
+.purple3{
+    background: #A6808C;
+}
+
+.purple4{
+    background: #706677;
+}
+
+.purple5{
+    background: #565264;
+}
+
+.purple6{
+    background: #4A2545;
+}
+
 .move:hover{
     -webkit-transform: skew(-10deg);
     transform: skew(-10deg);
