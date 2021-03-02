@@ -138,8 +138,51 @@ background: #C8A19B;
     background: #4A2545;
 }
 
+.grey1{
+    background: #eff0ef;
+}
+
+.grey2{
+    background: #E5E6E4;
+}
+
+.grey3{
+    background: #CFD2CD;
+}
+
+.grey4{
+    background: #A6A2A2;
+}
+
+.grey5{
+    background: #998888;
+}
+
+.grey6{
+     background: #847577;
+}
+
 .move:hover{
     -webkit-transform: skew(-10deg);
     transform: skew(-10deg);
     opacity: 50%;
+}
+
+@media screen and (max-width: 414px) {
+   
+    body{
+        margin-bottom: 10px;
+    }
+   
+    .shelf{
+        top: 20%;
+    }
+
+    .book{
+        width: 14px;
+        height: 54px;
+        margin-left: 1vw;
+        margin-bottom: 3px;
+        margin-top: 30px;
+    }
 }

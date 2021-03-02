@@ -72,3 +72,78 @@ body {
   line-height: 139%;
   text-align: center;
 }
+
+@media screen and (max-width: 414px) {
+  .context {
+    position: absolute;
+    width: 80vw;
+    height: 40vh;
+    left: 12%;
+    top: 14%;
+
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+  }
+
+  .line {
+    position: absolute;
+    width: 339px;
+    left: 6.7%;
+    top: 80%;
+
+    border: 0.25px solid #000000;
+  }
+
+  .para {
+    position: absolute;
+    width: 136px;
+    height: 24px;
+    left: 7%;
+    top: 75%;
+    
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+
+    /* or 139% */
+    
+    
+  }
+
+  .cite {
+    position: absolute;
+    width: 50vw;
+    left: 41%;
+    top: 75%;
+    
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    /* or 139% */
+    text-align: right;
+  }
+
+  .back{
+    position: absolute;
+width: 298px;
+left: 13%;
+top: 83%;
+
+font-family: Times New Roman;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 25px;
+/* or 192% */
+
+text-align: center;
+  }
+
+}
